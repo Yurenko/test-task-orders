@@ -23,7 +23,6 @@
 - **Material UI**
 - **Zod / Yup (Валідація)**
 - **GitHub Actions (CI/CD)**
-- **Vercel / Netlify (Деплой - опціонально)**
 
 ---
 
@@ -31,8 +30,7 @@
 
 1. **Склонуйте репозиторій**  
    ```sh
-   git clone https://github.com//spa-fake-store.git
-   cd spa-fake-store
+   git clone https://github.com/Yurenko/test-task-orders.git
    ```
 
 2. **Встановіть залежностій**  
